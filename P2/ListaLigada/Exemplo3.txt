@@ -1,0 +1,4 @@
+Exercicio:
+
+receber 10 elementos de umalista e mostrar o conteudo
+
