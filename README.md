@@ -2,9 +2,7 @@
 
 P1: metodos de sort
 
-P2: 
-
-  -> Arvore binaria
+P2: -> Arvore binaria
   -> Lista encadeada
   -> Pilha encadeada
 
